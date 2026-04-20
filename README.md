@@ -68,7 +68,7 @@ To improve Vrinda Store sales:
 
 - "Sales_Dashboard.xlsx"https://github.com/sameerkhan03-eng/excel-deshboard-project/blob/main/Vrinda%20Store%20Data%20Analysis%202025.xlsx
 - "README.md"
-- "dashboard_preview.png"
+- "dashboard_preview.png"https://github.com/sameerkhan03-eng/excel-deshboard-project/blob/main/Screenshot%202026-04-20%20214849.png
 
 ---
 
