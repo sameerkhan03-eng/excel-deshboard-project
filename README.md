@@ -1,13 +1,13 @@
-📊 Vrinda Store Sales Dashboard (Excel Project)
+📊 **Vrinda Store Sales Dashboard (Excel Project)**
 
-🧾 Overview
+**🧾 Overview**
 
 This project analyzes annual sales data of Vrinda Store using Microsoft Excel.
 The dataset contains 30,000+ rows, which were cleaned, transformed, and used to build an interactive dashboard for business insights.
 
 ---
 
-🛠️ Tools Used
+**🛠️ Tools Used**
 
 - Microsoft Excel
 - Pivot Tables
@@ -16,7 +16,7 @@ The dataset contains 30,000+ rows, which were cleaned, transformed, and used to 
 
 ---
 
-🔧 Data Preparation
+**🔧 Data Preparation**
 
 - Cleaned and processed 30,000+ rows of raw data
 - Removed duplicates and handled missing values
@@ -25,7 +25,7 @@ The dataset contains 30,000+ rows, which were cleaned, transformed, and used to 
 
 ---
 
-📌 Key Features
+**📌 Key Features**
 
 - 📅 Monthly Sales Analysis
 - 👥 Sales by Gender
@@ -36,7 +36,7 @@ The dataset contains 30,000+ rows, which were cleaned, transformed, and used to 
 
 ---
 
-📊 Sample Insights
+**📊 Sample Insights**
 
 - Women are more likely to buy compared to men (~65%)
 - Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
@@ -45,7 +45,7 @@ The dataset contains 30,000+ rows, which were cleaned, transformed, and used to 
 
 ---
 
-🎯 Final Conclusion
+**🎯 Final Conclusion**
 
 To improve Vrinda Store sales:
 
@@ -58,13 +58,13 @@ To improve Vrinda Store sales:
 
 ---
 
-📸 Dashboard Preview
+**📸 Dashboard Preview**
 
 (Add your dashboard screenshot here)
 
 ---
 
-📁 Project Files
+**📁 Project Files**
 
 - "Sales_Dashboard.xlsx"
 - "README.md"
@@ -72,7 +72,7 @@ To improve Vrinda Store sales:
 
 ---
 
-🚀 How to Use
+**🚀 How to Use**
 
 1. Download the Excel file
 2. Open in Microsoft Excel
