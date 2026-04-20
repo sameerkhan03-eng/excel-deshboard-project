@@ -1,4 +1,4 @@
-**📊 Vrinda Store Sales Dashboard (Excel Project)**********
+****📊 Vrinda Store Sales Dashboard (Excel Project)****
 
 **🧾 Overview**
 
