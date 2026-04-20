@@ -60,7 +60,7 @@ To improve Vrinda Store sales:
 
 **📸 Dashboard Preview**
 
-(Add your dashboard screenshot here)
+([Add your dashboard screenshot here](https://github.com/sameerkhan03-eng/excel-deshboard-project/blob/main/Screenshot%202026-04-20%20214849.png))
 
 ---
 
